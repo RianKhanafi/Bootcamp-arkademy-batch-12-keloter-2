@@ -1,0 +1,13 @@
+nav {
+    box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-warning {
+    box-shadow: 1px 0 10px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.modal-header,
+.modal-footer {
+    border: none;
+}
