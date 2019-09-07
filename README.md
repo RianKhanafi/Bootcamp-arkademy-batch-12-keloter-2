@@ -6,7 +6,7 @@ Softwre yang dibutuhkan
   3. web server 
 
 cara menjalankan aplikasi tinggal di exsekusi di url
-untuk aleri/pesan berhasil cara menghilangkannya di refresh kalau di klik tombol close 
+untuk alert/pesan berhasil cara menghilangkannya di refresh kalau di klik tombol close 
 session alert belum bisa ke unset
 
 nama database worker
